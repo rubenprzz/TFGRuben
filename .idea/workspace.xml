@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a21a2b2-e151-480a-9f85-82a5b24493d1" name="Changes" comment="Inicio Proyecto" />
+    <list default="true" id="1a21a2b2-e151-480a-9f85-82a5b24493d1" name="Changes" comment="Inicio Proyecto">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +43,7 @@
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "django.template.preview.state": "SHOW_EDITOR_AND_PREVIEW",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "develop",
     "last_opened_file_path": "C:/Users/ruben/ProyectoTFG/TFGRuben",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
@@ -134,7 +136,7 @@
       <option name="presentableId" value="Default" />
       <updated>1719778443462</updated>
       <workItem from="1719778444355" duration="5285000" />
-      <workItem from="1719787025292" duration="1071000" />
+      <workItem from="1719787025292" duration="1695000" />
     </task>
     <task id="LOCAL-00001" summary="Inicio Proyecto">
       <option name="closed" value="true" />
