@@ -5,6 +5,4 @@ from .models import Estudiante
 class EstudianteSerializer(serializers.ModelSerializer):
     class Meta:
         model = Estudiante
-        fields = ('nombre', 'apellidos', 'fecha_nacimiento', 'asignaturas')
-
-
+        fields = ('id', 'nombre', 'apellidos', 'fecha_nacimiento', 'asignaturas', 'created_at')
